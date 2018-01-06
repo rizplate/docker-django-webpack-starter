@@ -42,7 +42,7 @@ Wait for docker to set up container, then open [http://localhost:8000](http://lo
 # stop server
 ./bin/stop_production.sh
 
-# start srever
+# start server
 ./bin/start_production.sh
 ```
 
